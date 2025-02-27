@@ -1,5 +1,14 @@
 package org.dosen;
 
+/*
+ * Nama File : Dosen.java
+ * Deskripsi : Atribut dan Method dalam class Dosen
+ * Pembuat   : Unggul Adimulia 
+ * NIM       : 24060123140145
+ * Tanggal   : 27-02-2025
+ * */
+
+
 public class Dosen {
 	private String NIP;
 	private String nama;

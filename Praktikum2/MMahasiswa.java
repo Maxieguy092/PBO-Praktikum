@@ -1,5 +1,13 @@
 package org.MMahasiswa;
 
+/*
+ * Nama File : MMahasiswa.java
+ * Deskripsi : Main Class untuk praktikum 2 bagian relasi
+ * Pembuat   : Unggul Adimulia 
+ * NIM       : 24060123140145
+ * Tanggal   : 27-02-2025
+ * */
+
 import org.dosen.Dosen;
 import org.kendaraan.Kendaraan;
 import org.mahasiswa.Mahasiswa;

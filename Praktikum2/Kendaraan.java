@@ -1,5 +1,13 @@
 package org.kendaraan;
 
+/*
+ * Nama File : Kendaraan.java
+ * Deskripsi : Atribut dan Method dalam class Kendaraan
+ * Pembuat   : Unggul Adimulia 
+ * NIM       : 24060123140145
+ * Tanggal   : 27-02-2025
+ * */
+
 public class Kendaraan {
 	private String noPlat;
 	private String jenis;

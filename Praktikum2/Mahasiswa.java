@@ -1,5 +1,13 @@
 package org.mahasiswa;
 
+/*
+ * Nama File : Mahasiswa.java
+ * Deskripsi : Atribut dan Method dalam class Mahasiswa
+ * Pembuat   : Unggul Adimulia 
+ * NIM       : 24060123140145
+ * Tanggal   : 27-02-2025
+ * */
+
 import java.util.ArrayList;
 
 import org.dosen.Dosen;

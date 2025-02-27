@@ -1,5 +1,13 @@
 package org.matakuliah;
 
+/*
+ * Nama File : MataKuliah.java
+ * Deskripsi : Atribut dan Method dalam class MataKuliah
+ * Pembuat   : Unggul Adimulia 
+ * NIM       : 24060123140145
+ * Tanggal   : 27-02-2025
+ * */
+
 public class MataKuliah {
 	private String idMatkul;
 	private String nama;
