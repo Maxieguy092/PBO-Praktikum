@@ -1,5 +1,3 @@
-package org.asersi;
-
 /*
  * File 			:Asersi1.java
  * Deskripsi	:Program untuk menunjukkan asersi
